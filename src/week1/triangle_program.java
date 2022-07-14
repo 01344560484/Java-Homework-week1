@@ -10,8 +10,8 @@ public class triangle_program {
     public static void main (String args []){ /*these atr printing statement*/
 
         System.out.println("     *   ");
-        System.out.println("    * * ");
-        System.out.println("   * * * ");
+        System.out.println("    * *  ");
+        System.out.println("   * * *  ");
         System.out.println("  * * * * ");
         System.out.println(" * * * * * ");
         System.out.println("* * * * * *");

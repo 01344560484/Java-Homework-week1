@@ -1,6 +1,6 @@
 package week1;
-//Write a Java program to print a face
-//java program print face
+  //Write a Java program to print a face
+  //java program print face
 public class Printingface {
     //main method
     public static void main(String args[]){
